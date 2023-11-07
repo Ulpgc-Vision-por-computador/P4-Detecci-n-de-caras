@@ -18,5 +18,16 @@
 Para el resto de imágenes añadidas se ha seguido el mismo proceso.
 
 ![Detección de cara con filtro de Sasuke](media/captura_webcam.png "filtro sasuke")
+![Gif del funcionamiento del código](media/vid_filtro.gif "filtro gif")
+Imagen: Detección de cara con filtro de Sasuke
+
+
+## Fuentes de información
+
+- Para realizar el pixel-wise blending para el canal alpha [stackoverflow](https://stackoverflow.com/questions/66339930/when-pasting-an-image-on-another-image-how-to-keep-the-foreground-image-transpa)
+
+Realizado por:
+- Eduardo Etopa Lechuga
+- Willy Escovilla Biason
 
 
