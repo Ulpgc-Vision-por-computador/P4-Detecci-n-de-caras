@@ -18,8 +18,10 @@
 Para el resto de imágenes añadidas se ha seguido el mismo proceso.
 
 ![Detección de cara con filtro de Sasuke](media/captura_webcam.png "filtro sasuke")
-![Gif del funcionamiento del código](media/vid_filtro.gif "filtro gif")
 Imagen: Detección de cara con filtro de Sasuke
+
+![Gif del funcionamiento del código](media/vid_filtro.gif "filtro gif")
+Gif: Webcam con detección de cara en funcionamiento
 
 
 ## Fuentes de información
